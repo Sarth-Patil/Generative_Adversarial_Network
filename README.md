@@ -1,5 +1,5 @@
 # Generative Adversarial Network (GAN)
-Generative adversarial networks (GANs) consists of two deep neural networks,
+Generative adversarial networks (GANs) consists of two deep neural networks,  
 "The Discriminator" and "The Generator", competing against one another (adversarial).
 
 Discriminative algorithms predict label given the features of an instance of data, 
